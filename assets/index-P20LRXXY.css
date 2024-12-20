@@ -1,0 +1,1 @@
+.Carousel{position:relative;overflow:hidden}.Carousel__track-wrapper{display:flex;overflow:hidden}.Carousel__list{display:flex;margin:0;padding:0;list-style:none}.Carousel__item{flex-shrink:0;display:flex;justify-content:center;align-items:center}.Carousel__item img{max-width:130px;height:auto}
